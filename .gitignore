@@ -1,0 +1,5 @@
+#bo qua
+*.js
+bin/
+#khong bo qua
+bin/aha.js
